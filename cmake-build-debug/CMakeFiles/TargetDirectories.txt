@@ -1,6 +1,0 @@
-C:/Users/domin/CLionProjects/HeaterCooler/cmake-build-debug/CMakeFiles/uno_CORE.dir
-C:/Users/domin/CLionProjects/HeaterCooler/cmake-build-debug/CMakeFiles/uno_LiquidCrystal.dir
-C:/Users/domin/CLionProjects/HeaterCooler/cmake-build-debug/CMakeFiles/untitled2.dir
-C:/Users/domin/CLionProjects/HeaterCooler/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/domin/CLionProjects/HeaterCooler/cmake-build-debug/CMakeFiles/untitled2-size.dir
-C:/Users/domin/CLionProjects/HeaterCooler/cmake-build-debug/CMakeFiles/rebuild_cache.dir
