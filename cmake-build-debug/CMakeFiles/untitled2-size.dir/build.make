@@ -52,10 +52,10 @@ RM = C:\Users\domin\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\213.6461.75\
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\domin\CLionProjects\untitled2
+CMAKE_SOURCE_DIR = C:\Users\domin\CLionProjects\HeaterCooler
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\domin\CLionProjects\untitled2\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\domin\CLionProjects\HeaterCooler\cmake-build-debug
 
 # Utility rule file for untitled2-size.
 
@@ -66,8 +66,8 @@ include CMakeFiles/untitled2-size.dir/compiler_depend.make
 include CMakeFiles/untitled2-size.dir/progress.make
 
 CMakeFiles/untitled2-size: untitled2.elf
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=C:\Users\domin\CLionProjects\untitled2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Calculating untitled2 image size"
-	C:\Users\domin\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\213.6461.75\bin\cmake\win\bin\cmake.exe -DFIRMWARE_IMAGE=C:/Users/domin/CLionProjects/untitled2/cmake-build-debug/untitled2.elf -DMCU=atmega328p -DEEPROM_IMAGE=C:/Users/domin/CLionProjects/untitled2/cmake-build-debug/untitled2.eep -P C:/Users/domin/CLionProjects/untitled2/cmake-build-debug/CMakeFiles/FirmwareSize.cmake
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=C:\Users\domin\CLionProjects\HeaterCooler\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Calculating untitled2 image size"
+	C:\Users\domin\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\213.6461.75\bin\cmake\win\bin\cmake.exe -DFIRMWARE_IMAGE=C:/Users/domin/CLionProjects/HeaterCooler/cmake-build-debug/untitled2.elf -DMCU=atmega328p -DEEPROM_IMAGE=C:/Users/domin/CLionProjects/HeaterCooler/cmake-build-debug/untitled2.eep -P C:/Users/domin/CLionProjects/HeaterCooler/cmake-build-debug/CMakeFiles/FirmwareSize.cmake
 
 untitled2-size: CMakeFiles/untitled2-size
 untitled2-size: CMakeFiles/untitled2-size.dir/build.make
@@ -82,6 +82,6 @@ CMakeFiles/untitled2-size.dir/clean:
 .PHONY : CMakeFiles/untitled2-size.dir/clean
 
 CMakeFiles/untitled2-size.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\domin\CLionProjects\untitled2 C:\Users\domin\CLionProjects\untitled2 C:\Users\domin\CLionProjects\untitled2\cmake-build-debug C:\Users\domin\CLionProjects\untitled2\cmake-build-debug C:\Users\domin\CLionProjects\untitled2\cmake-build-debug\CMakeFiles\untitled2-size.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\domin\CLionProjects\HeaterCooler C:\Users\domin\CLionProjects\HeaterCooler C:\Users\domin\CLionProjects\HeaterCooler\cmake-build-debug C:\Users\domin\CLionProjects\HeaterCooler\cmake-build-debug C:\Users\domin\CLionProjects\HeaterCooler\cmake-build-debug\CMakeFiles\untitled2-size.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/untitled2-size.dir/depend
 

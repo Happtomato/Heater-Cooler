@@ -52,14 +52,14 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "uno_LiquidCrystal::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-uno_LiquidCrystal-Debug-2a8a1d8d327c0fac7ee0.json",
+					"jsonFile" : "target-uno_LiquidCrystal-Debug-5c514c75c8eaa8bad720.json",
 					"name" : "uno_LiquidCrystal",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "untitled2::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-untitled2-Debug-7b00edcbd79dd4932fdf.json",
+					"jsonFile" : "target-untitled2-Debug-852e8d30048436ab1c24.json",
 					"name" : "untitled2",
 					"projectIndex" : 0
 				},
@@ -76,8 +76,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/domin/CLionProjects/untitled2/cmake-build-debug",
-		"source" : "C:/Users/domin/CLionProjects/untitled2"
+		"build" : "C:/Users/domin/CLionProjects/HeaterCooler/cmake-build-debug",
+		"source" : "C:/Users/domin/CLionProjects/HeaterCooler"
 	},
 	"version" : 
 	{

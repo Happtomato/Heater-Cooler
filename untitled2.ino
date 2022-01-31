@@ -12,9 +12,9 @@ int LED_GRUEN = 9;
 int LED_BLAU = 8;
 int LED_ORANGE = 7;
 int valueOld = 0;
-int s = 0;
-int m = 0;
-int h = 0;
+int s = 50;
+int m = 59;
+int h = 7;
 
 
 void setup()
@@ -48,7 +48,7 @@ void loop() {
 
 
 
-    if(checkTime){
+    if(checkTime() == false){
         //turn on led for respective case
         if(temp <= 24 && temp >= 22){
             setActors(0,0,1,0,0,0);
@@ -63,12 +63,15 @@ void loop() {
             setActors(1000,0,0,1,0,0);
         }
     }
+    else{
+        setActors(0,0,0,0,0,1);
+    }
+
     delay (1000);
     s++;
 
-    boolean reset = false;
+
     if(s == 60){
-        reset = true;
         m++;
         s = 0;
     }
@@ -86,39 +89,20 @@ void loop() {
 
 
 
-    lcd.print("Zeit: " );
-    if( h >= 1){
-        lcd.print(h);
-    }
 
-    else if(h == 0){
-        lcd.print("00");
-    }
-
+    lcd.setCursor(0,0);
+    lcd.print("Time ");
+    if(h<10)lcd.print("0");// always 2 digits
+    lcd.print(h);
     lcd.print(":");
-    if(m >= 1){
-        lcd.print(m);
-    }
-
-    else if(m == 0){
-        lcd.print("00");
-    }
-
+    if(m<10)lcd.print("0");
+    lcd.print(m);
     lcd.print(":");
-    if(s >= 1){
-        lcd.print(s);
-    }
-    else if(h == 0){
-        lcd.print("00");
-    }
-    if(reset){
-        lcd.clear();
-    }
-    reset = false;
+    if(s<10)lcd.print("0");
+    lcd.print(s);
 
-    if(!checkTime){
-        setActors(0,0,0,0,0,1);
-    }
+
+
 
 
 
@@ -152,13 +136,18 @@ float roundTemp(float val, byte dec) {
 
 
 bool checkTime(){
-    if((h >= 8 && m >= 0) && (h <= 17 && m <= 59)){
+    if(h < 18){
+        if(h < 8){
+            Serial.print("true");
+            return true;
+        }
+        Serial.print("false");
         return false;
-        Serial.print("true");
     }
-    Serial.print("false");
-    return true;
-
+    else{
+        Serial.print("true");
+        return true;
+    }
 }
 
 void setActors(int speedH, int speedC, int ledGruen, int ledRot,  int ledBlau, int ledOrange){

@@ -52,10 +52,10 @@ RM = C:\Users\domin\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\213.6461.75\
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\domin\CLionProjects\untitled2
+CMAKE_SOURCE_DIR = C:\Users\domin\CLionProjects\HeaterCooler
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\domin\CLionProjects\untitled2\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\domin\CLionProjects\HeaterCooler\cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/untitled2.dir/depend.make
@@ -69,22 +69,22 @@ include CMakeFiles/untitled2.dir/progress.make
 include CMakeFiles/untitled2.dir/flags.make
 
 untitled2_untitled2.ino.cpp: ../untitled2.ino
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=C:\Users\domin\CLionProjects\untitled2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Regnerating untitled2.ino Sketch"
-	C:\Users\domin\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\213.6461.75\bin\cmake\win\bin\cmake.exe C:/Users/domin/CLionProjects/untitled2
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=C:\Users\domin\CLionProjects\HeaterCooler\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Regnerating untitled2.ino Sketch"
+	C:\Users\domin\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\213.6461.75\bin\cmake\win\bin\cmake.exe C:/Users/domin/CLionProjects/HeaterCooler
 
 CMakeFiles/untitled2.dir/untitled2_untitled2.ino.cpp.obj: CMakeFiles/untitled2.dir/flags.make
 CMakeFiles/untitled2.dir/untitled2_untitled2.ino.cpp.obj: untitled2_untitled2.ino.cpp
 CMakeFiles/untitled2.dir/untitled2_untitled2.ino.cpp.obj: CMakeFiles/untitled2.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\domin\CLionProjects\untitled2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/untitled2.dir/untitled2_untitled2.ino.cpp.obj"
-	C:\PROGRA~2\Arduino\hardware\tools\avr\bin\AVR-G_~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled2.dir/untitled2_untitled2.ino.cpp.obj -MF CMakeFiles\untitled2.dir\untitled2_untitled2.ino.cpp.obj.d -o CMakeFiles\untitled2.dir\untitled2_untitled2.ino.cpp.obj -c C:\Users\domin\CLionProjects\untitled2\cmake-build-debug\untitled2_untitled2.ino.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\domin\CLionProjects\HeaterCooler\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/untitled2.dir/untitled2_untitled2.ino.cpp.obj"
+	C:\PROGRA~2\Arduino\hardware\tools\avr\bin\AVR-G_~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled2.dir/untitled2_untitled2.ino.cpp.obj -MF CMakeFiles\untitled2.dir\untitled2_untitled2.ino.cpp.obj.d -o CMakeFiles\untitled2.dir\untitled2_untitled2.ino.cpp.obj -c C:\Users\domin\CLionProjects\HeaterCooler\cmake-build-debug\untitled2_untitled2.ino.cpp
 
 CMakeFiles/untitled2.dir/untitled2_untitled2.ino.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled2.dir/untitled2_untitled2.ino.cpp.i"
-	C:\PROGRA~2\Arduino\hardware\tools\avr\bin\AVR-G_~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\domin\CLionProjects\untitled2\cmake-build-debug\untitled2_untitled2.ino.cpp > CMakeFiles\untitled2.dir\untitled2_untitled2.ino.cpp.i
+	C:\PROGRA~2\Arduino\hardware\tools\avr\bin\AVR-G_~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\domin\CLionProjects\HeaterCooler\cmake-build-debug\untitled2_untitled2.ino.cpp > CMakeFiles\untitled2.dir\untitled2_untitled2.ino.cpp.i
 
 CMakeFiles/untitled2.dir/untitled2_untitled2.ino.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled2.dir/untitled2_untitled2.ino.cpp.s"
-	C:\PROGRA~2\Arduino\hardware\tools\avr\bin\AVR-G_~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\domin\CLionProjects\untitled2\cmake-build-debug\untitled2_untitled2.ino.cpp -o CMakeFiles\untitled2.dir\untitled2_untitled2.ino.cpp.s
+	C:\PROGRA~2\Arduino\hardware\tools\avr\bin\AVR-G_~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\domin\CLionProjects\HeaterCooler\cmake-build-debug\untitled2_untitled2.ino.cpp -o CMakeFiles\untitled2.dir\untitled2_untitled2.ino.cpp.s
 
 # Object files for target untitled2
 untitled2_OBJECTS = \
@@ -98,14 +98,14 @@ untitled2.elf: CMakeFiles/untitled2.dir/build.make
 untitled2.elf: libuno_LiquidCrystal.a
 untitled2.elf: libuno_CORE.a
 untitled2.elf: CMakeFiles/untitled2.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\domin\CLionProjects\untitled2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable untitled2.elf"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\domin\CLionProjects\HeaterCooler\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable untitled2.elf"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\untitled2.dir\link.txt --verbose=$(VERBOSE)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold "Generating EEP image"
-	"C:\Program Files (x86)\Arduino\hardware\tools\avr\bin\avr-objcopy.exe" -O ihex -j .eeprom --set-section-flags=.eeprom=alloc,load --no-change-warnings --change-section-lma .eeprom=0 C:/Users/domin/CLionProjects/untitled2/cmake-build-debug/untitled2.elf C:/Users/domin/CLionProjects/untitled2/cmake-build-debug/untitled2.eep
+	"C:\Program Files (x86)\Arduino\hardware\tools\avr\bin\avr-objcopy.exe" -O ihex -j .eeprom --set-section-flags=.eeprom=alloc,load --no-change-warnings --change-section-lma .eeprom=0 C:/Users/domin/CLionProjects/HeaterCooler/cmake-build-debug/untitled2.elf C:/Users/domin/CLionProjects/HeaterCooler/cmake-build-debug/untitled2.eep
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold "Generating HEX image"
-	"C:\Program Files (x86)\Arduino\hardware\tools\avr\bin\avr-objcopy.exe" -O ihex -R .eeprom C:/Users/domin/CLionProjects/untitled2/cmake-build-debug/untitled2.elf C:/Users/domin/CLionProjects/untitled2/cmake-build-debug/untitled2.hex
+	"C:\Program Files (x86)\Arduino\hardware\tools\avr\bin\avr-objcopy.exe" -O ihex -R .eeprom C:/Users/domin/CLionProjects/HeaterCooler/cmake-build-debug/untitled2.elf C:/Users/domin/CLionProjects/HeaterCooler/cmake-build-debug/untitled2.hex
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold "Calculating image size"
-	C:\Users\domin\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\213.6461.75\bin\cmake\win\bin\cmake.exe -DFIRMWARE_IMAGE=C:/Users/domin/CLionProjects/untitled2/cmake-build-debug/untitled2.elf -DMCU=atmega328p -DEEPROM_IMAGE=C:/Users/domin/CLionProjects/untitled2/cmake-build-debug/untitled2.eep -P C:/Users/domin/CLionProjects/untitled2/cmake-build-debug/CMakeFiles/FirmwareSize.cmake
+	C:\Users\domin\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\213.6461.75\bin\cmake\win\bin\cmake.exe -DFIRMWARE_IMAGE=C:/Users/domin/CLionProjects/HeaterCooler/cmake-build-debug/untitled2.elf -DMCU=atmega328p -DEEPROM_IMAGE=C:/Users/domin/CLionProjects/HeaterCooler/cmake-build-debug/untitled2.eep -P C:/Users/domin/CLionProjects/HeaterCooler/cmake-build-debug/CMakeFiles/FirmwareSize.cmake
 
 # Rule to build all files generated by this target.
 CMakeFiles/untitled2.dir/build: untitled2.elf
@@ -116,6 +116,6 @@ CMakeFiles/untitled2.dir/clean:
 .PHONY : CMakeFiles/untitled2.dir/clean
 
 CMakeFiles/untitled2.dir/depend: untitled2_untitled2.ino.cpp
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\domin\CLionProjects\untitled2 C:\Users\domin\CLionProjects\untitled2 C:\Users\domin\CLionProjects\untitled2\cmake-build-debug C:\Users\domin\CLionProjects\untitled2\cmake-build-debug C:\Users\domin\CLionProjects\untitled2\cmake-build-debug\CMakeFiles\untitled2.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\domin\CLionProjects\HeaterCooler C:\Users\domin\CLionProjects\HeaterCooler C:\Users\domin\CLionProjects\HeaterCooler\cmake-build-debug C:\Users\domin\CLionProjects\HeaterCooler\cmake-build-debug C:\Users\domin\CLionProjects\HeaterCooler\cmake-build-debug\CMakeFiles\untitled2.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/untitled2.dir/depend
 

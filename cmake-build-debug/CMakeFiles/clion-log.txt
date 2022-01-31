@@ -1,4 +1,4 @@
-C:\Users\domin\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\213.6461.75\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\domin\CLionProjects\untitled2
+C:\Users\domin\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\213.6461.75\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\domin\CLionProjects\HeaterCooler
 CMake Deprecation Warning at CMakeLists.txt:1 (cmake_minimum_required):
   Compatibility with CMake < 2.8.12 will be removed from a future version of
   CMake.
@@ -33,7 +33,7 @@ Call Stack (most recent call first):
 
 
 -- Detecting C compiler ABI info
-CMake Deprecation Warning at C:/Users/domin/CLionProjects/untitled2/cmake/Platform/Arduino.cmake:285 (cmake_minimum_required):
+CMake Deprecation Warning at C:/Users/domin/CLionProjects/HeaterCooler/cmake/Platform/Arduino.cmake:285 (cmake_minimum_required):
   Compatibility with CMake < 2.8.12 will be removed from a future version of
   CMake.
 
@@ -41,10 +41,10 @@ CMake Deprecation Warning at C:/Users/domin/CLionProjects/untitled2/cmake/Platfo
   CMake that the project does not need compatibility with older versions.
 Call Stack (most recent call first):
   C:/Users/domin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/cmake/win/share/cmake-3.21/Modules/CMakeSystemSpecificInformation.cmake:27 (include)
-  C:/Users/domin/CLionProjects/untitled2/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeLists.txt:4 (project)
+  C:/Users/domin/CLionProjects/HeaterCooler/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeLists.txt:4 (project)
 
 
-CMake Deprecation Warning at C:/Users/domin/CLionProjects/untitled2/cmake/Platform/Arduino.cmake:285 (cmake_minimum_required):
+CMake Deprecation Warning at C:/Users/domin/CLionProjects/HeaterCooler/cmake/Platform/Arduino.cmake:285 (cmake_minimum_required):
   Compatibility with CMake < 2.8.12 will be removed from a future version of
   CMake.
 
@@ -52,7 +52,7 @@ CMake Deprecation Warning at C:/Users/domin/CLionProjects/untitled2/cmake/Platfo
   CMake that the project does not need compatibility with older versions.
 Call Stack (most recent call first):
   C:/Users/domin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/cmake/win/share/cmake-3.21/Modules/CMakeCInformation.cmake:66 (include)
-  C:/Users/domin/CLionProjects/untitled2/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeLists.txt:4 (project)
+  C:/Users/domin/CLionProjects/HeaterCooler/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeLists.txt:4 (project)
 
 
 -- Detecting C compiler ABI info - done
@@ -71,7 +71,7 @@ Call Stack (most recent call first):
 
 
 -- Detecting CXX compiler ABI info
-CMake Deprecation Warning at C:/Users/domin/CLionProjects/untitled2/cmake/Platform/Arduino.cmake:285 (cmake_minimum_required):
+CMake Deprecation Warning at C:/Users/domin/CLionProjects/HeaterCooler/cmake/Platform/Arduino.cmake:285 (cmake_minimum_required):
   Compatibility with CMake < 2.8.12 will be removed from a future version of
   CMake.
 
@@ -79,10 +79,10 @@ CMake Deprecation Warning at C:/Users/domin/CLionProjects/untitled2/cmake/Platfo
   CMake that the project does not need compatibility with older versions.
 Call Stack (most recent call first):
   C:/Users/domin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/cmake/win/share/cmake-3.21/Modules/CMakeSystemSpecificInformation.cmake:27 (include)
-  C:/Users/domin/CLionProjects/untitled2/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeLists.txt:4 (project)
+  C:/Users/domin/CLionProjects/HeaterCooler/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeLists.txt:4 (project)
 
 
-CMake Deprecation Warning at C:/Users/domin/CLionProjects/untitled2/cmake/Platform/Arduino.cmake:285 (cmake_minimum_required):
+CMake Deprecation Warning at C:/Users/domin/CLionProjects/HeaterCooler/cmake/Platform/Arduino.cmake:285 (cmake_minimum_required):
   Compatibility with CMake < 2.8.12 will be removed from a future version of
   CMake.
 
@@ -90,13 +90,13 @@ CMake Deprecation Warning at C:/Users/domin/CLionProjects/untitled2/cmake/Platfo
   CMake that the project does not need compatibility with older versions.
 Call Stack (most recent call first):
   C:/Users/domin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/cmake/win/share/cmake-3.21/Modules/CMakeCXXInformation.cmake:65 (include)
-  C:/Users/domin/CLionProjects/untitled2/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeLists.txt:4 (project)
+  C:/Users/domin/CLionProjects/HeaterCooler/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeLists.txt:4 (project)
 
 
 -- Detecting CXX compiler ABI info - done
 -- Check for working CXX compiler: C:/Program Files (x86)/Arduino/hardware/tools/avr/bin/avr-g++.exe - skipped
 -- Detecting CXX compile features
-CMake Deprecation Warning at C:/Users/domin/CLionProjects/untitled2/cmake/Platform/Arduino.cmake:285 (cmake_minimum_required):
+CMake Deprecation Warning at C:/Users/domin/CLionProjects/HeaterCooler/cmake/Platform/Arduino.cmake:285 (cmake_minimum_required):
   Compatibility with CMake < 2.8.12 will be removed from a future version of
   CMake.
 
@@ -104,10 +104,10 @@ CMake Deprecation Warning at C:/Users/domin/CLionProjects/untitled2/cmake/Platfo
   CMake that the project does not need compatibility with older versions.
 Call Stack (most recent call first):
   C:/Users/domin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/cmake/win/share/cmake-3.21/Modules/CMakeSystemSpecificInformation.cmake:27 (include)
-  C:/Users/domin/CLionProjects/untitled2/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeLists.txt:4 (project)
+  C:/Users/domin/CLionProjects/HeaterCooler/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeLists.txt:4 (project)
 
 
-CMake Deprecation Warning at C:/Users/domin/CLionProjects/untitled2/cmake/Platform/Arduino.cmake:285 (cmake_minimum_required):
+CMake Deprecation Warning at C:/Users/domin/CLionProjects/HeaterCooler/cmake/Platform/Arduino.cmake:285 (cmake_minimum_required):
   Compatibility with CMake < 2.8.12 will be removed from a future version of
   CMake.
 
@@ -115,7 +115,7 @@ CMake Deprecation Warning at C:/Users/domin/CLionProjects/untitled2/cmake/Platfo
   CMake that the project does not need compatibility with older versions.
 Call Stack (most recent call first):
   C:/Users/domin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/cmake/win/share/cmake-3.21/Modules/CMakeCXXInformation.cmake:65 (include)
-  C:/Users/domin/CLionProjects/untitled2/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeLists.txt:4 (project)
+  C:/Users/domin/CLionProjects/HeaterCooler/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeLists.txt:4 (project)
 
 
 -- Detecting CXX compile features - done
@@ -158,4 +158,4 @@ Call Stack (most recent call first):
 -- 
 -- Configuring done
 -- Generating done
--- Build files have been written to: C:/Users/domin/CLionProjects/untitled2/cmake-build-debug
+-- Build files have been written to: C:/Users/domin/CLionProjects/HeaterCooler/cmake-build-debug

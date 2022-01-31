@@ -87,7 +87,7 @@
 					"fragment" : "-g -Os -w -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -MMD -g -Os -w -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -MMD"
 				},
 				{
-					"fragment" : " -DF_CPU=16000000L -DARDUINO=10604 -DARDUINO_AVR_UNO -DARDUINO_ARCH_AVR -mmcu=atmega328p -I\"C:/Program Files (x86)/Arduino/hardware/arduino/avr/cores/arduino\" -I\"C:/Program Files (x86)/Arduino/libraries\" -I\"C:/Program Files (x86)/Arduino/hardware/arduino/avr/variants/standard\"  -I\"C:/Program Files (x86)/Arduino/libraries/LiquidCrystal\" -I\"C:/Program Files (x86)/Arduino/libraries/LiquidCrystal/src\" -I\"C:/Program Files (x86)/Arduino/libraries/LiquidCrystal/utility\"  -I\"C:/Users/domin/CLionProjects/untitled2\" -I\"C:/Program Files (x86)/Arduino/libraries/LiquidCrystal\" -I\"C:/Program Files (x86)/Arduino/libraries/LiquidCrystal/src\""
+					"fragment" : " -DF_CPU=16000000L -DARDUINO=10604 -DARDUINO_AVR_UNO -DARDUINO_ARCH_AVR -mmcu=atmega328p -I\"C:/Program Files (x86)/Arduino/hardware/arduino/avr/cores/arduino\" -I\"C:/Program Files (x86)/Arduino/libraries\" -I\"C:/Program Files (x86)/Arduino/hardware/arduino/avr/variants/standard\"  -I\"C:/Program Files (x86)/Arduino/libraries/LiquidCrystal\" -I\"C:/Program Files (x86)/Arduino/libraries/LiquidCrystal/src\" -I\"C:/Program Files (x86)/Arduino/libraries/LiquidCrystal/utility\"  -I\"C:/Users/domin/CLionProjects/HeaterCooler\" -I\"C:/Program Files (x86)/Arduino/libraries/LiquidCrystal\" -I\"C:/Program Files (x86)/Arduino/libraries/LiquidCrystal/src\""
 				},
 				{
 					"fragment" : "-std=gnu++98"

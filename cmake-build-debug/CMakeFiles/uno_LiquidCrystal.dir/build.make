@@ -52,10 +52,10 @@ RM = C:\Users\domin\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\213.6461.75\
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\domin\CLionProjects\untitled2
+CMAKE_SOURCE_DIR = C:\Users\domin\CLionProjects\HeaterCooler
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\domin\CLionProjects\untitled2\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\domin\CLionProjects\HeaterCooler\cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/uno_LiquidCrystal.dir/depend.make
@@ -71,7 +71,7 @@ include CMakeFiles/uno_LiquidCrystal.dir/flags.make
 CMakeFiles/uno_LiquidCrystal.dir/C_/Program_Files_(x86)/Arduino/libraries/LiquidCrystal/src/LiquidCrystal.cpp.obj: CMakeFiles/uno_LiquidCrystal.dir/flags.make
 CMakeFiles/uno_LiquidCrystal.dir/C_/Program_Files_(x86)/Arduino/libraries/LiquidCrystal/src/LiquidCrystal.cpp.obj: C:/Program\ Files\ (x86)/Arduino/libraries/LiquidCrystal/src/LiquidCrystal.cpp
 CMakeFiles/uno_LiquidCrystal.dir/C_/Program_Files_(x86)/Arduino/libraries/LiquidCrystal/src/LiquidCrystal.cpp.obj: CMakeFiles/uno_LiquidCrystal.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\domin\CLionProjects\untitled2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/uno_LiquidCrystal.dir/C_/Program_Files_(x86)/Arduino/libraries/LiquidCrystal/src/LiquidCrystal.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\domin\CLionProjects\HeaterCooler\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/uno_LiquidCrystal.dir/C_/Program_Files_(x86)/Arduino/libraries/LiquidCrystal/src/LiquidCrystal.cpp.obj"
 	C:\PROGRA~2\Arduino\hardware\tools\avr\bin\AVR-G_~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/uno_LiquidCrystal.dir/C_/Program_Files_(x86)/Arduino/libraries/LiquidCrystal/src/LiquidCrystal.cpp.obj -MF CMakeFiles\uno_LiquidCrystal.dir\C_\Program_Files_(x86)\Arduino\libraries\LiquidCrystal\src\LiquidCrystal.cpp.obj.d -o CMakeFiles\uno_LiquidCrystal.dir\C_\Program_Files_(x86)\Arduino\libraries\LiquidCrystal\src\LiquidCrystal.cpp.obj -c "C:\Program Files (x86)\Arduino\libraries\LiquidCrystal\src\LiquidCrystal.cpp"
 
 CMakeFiles/uno_LiquidCrystal.dir/C_/Program_Files_(x86)/Arduino/libraries/LiquidCrystal/src/LiquidCrystal.cpp.i: cmake_force
@@ -92,7 +92,7 @@ uno_LiquidCrystal_EXTERNAL_OBJECTS =
 libuno_LiquidCrystal.a: CMakeFiles/uno_LiquidCrystal.dir/C_/Program_Files_(x86)/Arduino/libraries/LiquidCrystal/src/LiquidCrystal.cpp.obj
 libuno_LiquidCrystal.a: CMakeFiles/uno_LiquidCrystal.dir/build.make
 libuno_LiquidCrystal.a: CMakeFiles/uno_LiquidCrystal.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\domin\CLionProjects\untitled2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX static library libuno_LiquidCrystal.a"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\domin\CLionProjects\HeaterCooler\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX static library libuno_LiquidCrystal.a"
 	$(CMAKE_COMMAND) -P CMakeFiles\uno_LiquidCrystal.dir\cmake_clean_target.cmake
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\uno_LiquidCrystal.dir\link.txt --verbose=$(VERBOSE)
 
@@ -105,6 +105,6 @@ CMakeFiles/uno_LiquidCrystal.dir/clean:
 .PHONY : CMakeFiles/uno_LiquidCrystal.dir/clean
 
 CMakeFiles/uno_LiquidCrystal.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\domin\CLionProjects\untitled2 C:\Users\domin\CLionProjects\untitled2 C:\Users\domin\CLionProjects\untitled2\cmake-build-debug C:\Users\domin\CLionProjects\untitled2\cmake-build-debug C:\Users\domin\CLionProjects\untitled2\cmake-build-debug\CMakeFiles\uno_LiquidCrystal.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\domin\CLionProjects\HeaterCooler C:\Users\domin\CLionProjects\HeaterCooler C:\Users\domin\CLionProjects\HeaterCooler\cmake-build-debug C:\Users\domin\CLionProjects\HeaterCooler\cmake-build-debug C:\Users\domin\CLionProjects\HeaterCooler\cmake-build-debug\CMakeFiles\uno_LiquidCrystal.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/uno_LiquidCrystal.dir/depend
 

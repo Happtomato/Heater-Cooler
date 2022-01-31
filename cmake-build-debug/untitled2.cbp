@@ -8,18 +8,18 @@
 		<Option virtualFolders="CMake Files\;CMake Files\cmake\;CMake Files\cmake\Platform\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="C:/Users/domin/CLionProjects/untitled2/cmake-build-debug"/>
+				<Option working_dir="C:/Users/domin/CLionProjects/HeaterCooler/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/Users/domin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/domin/CLionProjects/untitled2/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="C:/Users/domin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/domin/CLionProjects/untitled2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/Users/domin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/domin/CLionProjects/untitled2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/Users/domin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/domin/CLionProjects/untitled2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/Users/domin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/domin/CLionProjects/HeaterCooler/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/Users/domin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/domin/CLionProjects/HeaterCooler/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/domin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/domin/CLionProjects/HeaterCooler/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/domin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/domin/CLionProjects/HeaterCooler/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="uno_CORE">
-				<Option output="C:/Users/domin/CLionProjects/untitled2/cmake-build-debug/libuno_CORE.a" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/domin/CLionProjects/untitled2/cmake-build-debug"/>
+				<Option output="C:/Users/domin/CLionProjects/HeaterCooler/cmake-build-debug/libuno_CORE.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/domin/CLionProjects/HeaterCooler/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="2"/>
 				<Option compiler="gcc"/>
@@ -32,15 +32,15 @@
 					<Add directory="c:\program files (x86)\arduino\hardware\tools\avr\bin\../lib/gcc/avr/4.8.1/../../../../avr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/Users/domin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/domin/CLionProjects/untitled2/cmake-build-debug/Makefile&quot;  VERBOSE=1 uno_CORE"/>
-					<CompileFile command="C:/Users/domin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/domin/CLionProjects/untitled2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/Users/domin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/domin/CLionProjects/untitled2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/Users/domin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/domin/CLionProjects/untitled2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/Users/domin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/domin/CLionProjects/HeaterCooler/cmake-build-debug/Makefile&quot;  VERBOSE=1 uno_CORE"/>
+					<CompileFile command="C:/Users/domin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/domin/CLionProjects/HeaterCooler/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/domin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/domin/CLionProjects/HeaterCooler/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/domin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/domin/CLionProjects/HeaterCooler/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="uno_CORE/fast">
-				<Option output="C:/Users/domin/CLionProjects/untitled2/cmake-build-debug/libuno_CORE.a" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/domin/CLionProjects/untitled2/cmake-build-debug"/>
+				<Option output="C:/Users/domin/CLionProjects/HeaterCooler/cmake-build-debug/libuno_CORE.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/domin/CLionProjects/HeaterCooler/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="2"/>
 				<Option compiler="gcc"/>
@@ -53,15 +53,15 @@
 					<Add directory="c:\program files (x86)\arduino\hardware\tools\avr\bin\../lib/gcc/avr/4.8.1/../../../../avr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/Users/domin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/domin/CLionProjects/untitled2/cmake-build-debug/Makefile&quot;  VERBOSE=1 uno_CORE/fast"/>
-					<CompileFile command="C:/Users/domin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/domin/CLionProjects/untitled2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/Users/domin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/domin/CLionProjects/untitled2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/Users/domin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/domin/CLionProjects/untitled2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/Users/domin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/domin/CLionProjects/HeaterCooler/cmake-build-debug/Makefile&quot;  VERBOSE=1 uno_CORE/fast"/>
+					<CompileFile command="C:/Users/domin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/domin/CLionProjects/HeaterCooler/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/domin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/domin/CLionProjects/HeaterCooler/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/domin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/domin/CLionProjects/HeaterCooler/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="uno_LiquidCrystal">
-				<Option output="C:/Users/domin/CLionProjects/untitled2/cmake-build-debug/libuno_LiquidCrystal.a" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/domin/CLionProjects/untitled2/cmake-build-debug"/>
+				<Option output="C:/Users/domin/CLionProjects/HeaterCooler/cmake-build-debug/libuno_LiquidCrystal.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/domin/CLionProjects/HeaterCooler/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="2"/>
 				<Option compiler="gcc"/>
@@ -74,15 +74,15 @@
 					<Add directory="c:\program files (x86)\arduino\hardware\tools\avr\bin\../lib/gcc/avr/4.8.1/../../../../avr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/Users/domin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/domin/CLionProjects/untitled2/cmake-build-debug/Makefile&quot;  VERBOSE=1 uno_LiquidCrystal"/>
-					<CompileFile command="C:/Users/domin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/domin/CLionProjects/untitled2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/Users/domin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/domin/CLionProjects/untitled2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/Users/domin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/domin/CLionProjects/untitled2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/Users/domin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/domin/CLionProjects/HeaterCooler/cmake-build-debug/Makefile&quot;  VERBOSE=1 uno_LiquidCrystal"/>
+					<CompileFile command="C:/Users/domin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/domin/CLionProjects/HeaterCooler/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/domin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/domin/CLionProjects/HeaterCooler/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/domin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/domin/CLionProjects/HeaterCooler/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="uno_LiquidCrystal/fast">
-				<Option output="C:/Users/domin/CLionProjects/untitled2/cmake-build-debug/libuno_LiquidCrystal.a" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/domin/CLionProjects/untitled2/cmake-build-debug"/>
+				<Option output="C:/Users/domin/CLionProjects/HeaterCooler/cmake-build-debug/libuno_LiquidCrystal.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/domin/CLionProjects/HeaterCooler/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="2"/>
 				<Option compiler="gcc"/>
@@ -95,15 +95,15 @@
 					<Add directory="c:\program files (x86)\arduino\hardware\tools\avr\bin\../lib/gcc/avr/4.8.1/../../../../avr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/Users/domin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/domin/CLionProjects/untitled2/cmake-build-debug/Makefile&quot;  VERBOSE=1 uno_LiquidCrystal/fast"/>
-					<CompileFile command="C:/Users/domin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/domin/CLionProjects/untitled2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/Users/domin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/domin/CLionProjects/untitled2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/Users/domin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/domin/CLionProjects/untitled2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/Users/domin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/domin/CLionProjects/HeaterCooler/cmake-build-debug/Makefile&quot;  VERBOSE=1 uno_LiquidCrystal/fast"/>
+					<CompileFile command="C:/Users/domin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/domin/CLionProjects/HeaterCooler/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/domin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/domin/CLionProjects/HeaterCooler/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/domin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/domin/CLionProjects/HeaterCooler/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="untitled2">
-				<Option output="C:/Users/domin/CLionProjects/untitled2/cmake-build-debug/untitled2.elf" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/domin/CLionProjects/untitled2/cmake-build-debug"/>
+				<Option output="C:/Users/domin/CLionProjects/HeaterCooler/cmake-build-debug/untitled2.elf" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/domin/CLionProjects/HeaterCooler/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -116,15 +116,15 @@
 					<Add directory="c:\program files (x86)\arduino\hardware\tools\avr\bin\../lib/gcc/avr/4.8.1/../../../../avr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/Users/domin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/domin/CLionProjects/untitled2/cmake-build-debug/Makefile&quot;  VERBOSE=1 untitled2"/>
-					<CompileFile command="C:/Users/domin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/domin/CLionProjects/untitled2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/Users/domin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/domin/CLionProjects/untitled2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/Users/domin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/domin/CLionProjects/untitled2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/Users/domin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/domin/CLionProjects/HeaterCooler/cmake-build-debug/Makefile&quot;  VERBOSE=1 untitled2"/>
+					<CompileFile command="C:/Users/domin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/domin/CLionProjects/HeaterCooler/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/domin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/domin/CLionProjects/HeaterCooler/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/domin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/domin/CLionProjects/HeaterCooler/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="untitled2/fast">
-				<Option output="C:/Users/domin/CLionProjects/untitled2/cmake-build-debug/untitled2.elf" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/domin/CLionProjects/untitled2/cmake-build-debug"/>
+				<Option output="C:/Users/domin/CLionProjects/HeaterCooler/cmake-build-debug/untitled2.elf" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/domin/CLionProjects/HeaterCooler/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -137,40 +137,40 @@
 					<Add directory="c:\program files (x86)\arduino\hardware\tools\avr\bin\../lib/gcc/avr/4.8.1/../../../../avr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/Users/domin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/domin/CLionProjects/untitled2/cmake-build-debug/Makefile&quot;  VERBOSE=1 untitled2/fast"/>
-					<CompileFile command="C:/Users/domin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/domin/CLionProjects/untitled2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/Users/domin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/domin/CLionProjects/untitled2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/Users/domin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/domin/CLionProjects/untitled2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/Users/domin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/domin/CLionProjects/HeaterCooler/cmake-build-debug/Makefile&quot;  VERBOSE=1 untitled2/fast"/>
+					<CompileFile command="C:/Users/domin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/domin/CLionProjects/HeaterCooler/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/domin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/domin/CLionProjects/HeaterCooler/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/domin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/domin/CLionProjects/HeaterCooler/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="C:/Users/domin/CLionProjects/untitled2/cmake-build-debug"/>
+				<Option working_dir="C:/Users/domin/CLionProjects/HeaterCooler/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/Users/domin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/domin/CLionProjects/untitled2/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="C:/Users/domin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/domin/CLionProjects/untitled2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/Users/domin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/domin/CLionProjects/untitled2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/Users/domin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/domin/CLionProjects/untitled2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/Users/domin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/domin/CLionProjects/HeaterCooler/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/Users/domin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/domin/CLionProjects/HeaterCooler/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/domin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/domin/CLionProjects/HeaterCooler/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/domin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/domin/CLionProjects/HeaterCooler/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="untitled2-size">
-				<Option working_dir="C:/Users/domin/CLionProjects/untitled2/cmake-build-debug"/>
+				<Option working_dir="C:/Users/domin/CLionProjects/HeaterCooler/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/Users/domin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/domin/CLionProjects/untitled2/cmake-build-debug/Makefile&quot;  VERBOSE=1 untitled2-size"/>
-					<CompileFile command="C:/Users/domin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/domin/CLionProjects/untitled2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/Users/domin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/domin/CLionProjects/untitled2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/Users/domin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/domin/CLionProjects/untitled2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/Users/domin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/domin/CLionProjects/HeaterCooler/cmake-build-debug/Makefile&quot;  VERBOSE=1 untitled2-size"/>
+					<CompileFile command="C:/Users/domin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/domin/CLionProjects/HeaterCooler/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/domin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/domin/CLionProjects/HeaterCooler/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/domin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/domin/CLionProjects/HeaterCooler/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="C:/Users/domin/CLionProjects/untitled2/cmake-build-debug"/>
+				<Option working_dir="C:/Users/domin/CLionProjects/HeaterCooler/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/Users/domin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/domin/CLionProjects/untitled2/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="C:/Users/domin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/domin/CLionProjects/untitled2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/Users/domin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/domin/CLionProjects/untitled2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/Users/domin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/domin/CLionProjects/untitled2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/Users/domin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/domin/CLionProjects/HeaterCooler/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/Users/domin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/domin/CLionProjects/HeaterCooler/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/domin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/domin/CLionProjects/HeaterCooler/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/domin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/domin/CLionProjects/HeaterCooler/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
@@ -306,22 +306,22 @@
 		<Unit filename="C:/Program Files (x86)/Arduino/libraries/LiquidCrystal/src/LiquidCrystal.h">
 			<Option target="uno_LiquidCrystal"/>
 		</Unit>
-		<Unit filename="C:/Users/domin/CLionProjects/untitled2/cmake-build-debug/untitled2_untitled2.ino.cpp">
+		<Unit filename="C:/Users/domin/CLionProjects/HeaterCooler/cmake-build-debug/untitled2_untitled2.ino.cpp">
 			<Option target="untitled2"/>
 		</Unit>
-		<Unit filename="C:/Users/domin/CLionProjects/untitled2/cmake-build-debug/untitled2_untitled2.ino.cpp.rule">
+		<Unit filename="C:/Users/domin/CLionProjects/HeaterCooler/cmake-build-debug/untitled2_untitled2.ino.cpp.rule">
 			<Option target="untitled2"/>
 		</Unit>
-		<Unit filename="C:/Users/domin/CLionProjects/untitled2/untitled2.ino">
+		<Unit filename="C:/Users/domin/CLionProjects/HeaterCooler/untitled2.ino">
 			<Option target="untitled2"/>
 		</Unit>
-		<Unit filename="C:/Users/domin/CLionProjects/untitled2/CMakeLists.txt">
+		<Unit filename="C:/Users/domin/CLionProjects/HeaterCooler/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
-		<Unit filename="C:/Users/domin/CLionProjects/untitled2/cmake/ArduinoToolchain.cmake">
+		<Unit filename="C:/Users/domin/CLionProjects/HeaterCooler/cmake/ArduinoToolchain.cmake">
 			<Option virtualFolder="CMake Files\cmake\"/>
 		</Unit>
-		<Unit filename="C:/Users/domin/CLionProjects/untitled2/cmake/Platform/Arduino.cmake">
+		<Unit filename="C:/Users/domin/CLionProjects/HeaterCooler/cmake/Platform/Arduino.cmake">
 			<Option virtualFolder="CMake Files\cmake\Platform\"/>
 		</Unit>
 	</Project>

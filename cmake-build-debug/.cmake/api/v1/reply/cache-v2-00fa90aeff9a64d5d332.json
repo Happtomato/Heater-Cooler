@@ -315,7 +315,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/domin/CLionProjects/untitled2/cmake-build-debug/CMakeFiles/FirmwareSize.cmake"
+			"value" : "C:/Users/domin/CLionProjects/HeaterCooler/cmake-build-debug/CMakeFiles/FirmwareSize.cmake"
 		},
 		{
 			"name" : "ARDUINO_VARIANTS_PATH",
@@ -535,7 +535,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/domin/CLionProjects/untitled2/cmake-build-debug"
+			"value" : "c:/Users/domin/CLionProjects/HeaterCooler/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -662,6 +662,22 @@
 			"value" : "C:/Users/domin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/cmake/win/bin/ctest.exe"
 		},
 		{
+			"name" : "CMAKE_CXX_COMPILER",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "(This variable does not exist and should not be used)"
+				}
+			],
+			"type" : "UNINITIALIZED",
+			"value" : ""
+		},
+		{
 			"name" : "CMAKE_CXX_COMPILER_AR",
 			"properties" : 
 			[
@@ -772,6 +788,22 @@
 			],
 			"type" : "STRING",
 			"value" : "-g -Os -w -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -MMD"
+		},
+		{
+			"name" : "CMAKE_C_COMPILER",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "(This variable does not exist and should not be used)"
+				}
+			],
+			"type" : "UNINITIALIZED",
+			"value" : ""
 		},
 		{
 			"name" : "CMAKE_C_COMPILER_AR",
@@ -1111,7 +1143,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/domin/CLionProjects/untitled2"
+			"value" : "C:/Users/domin/CLionProjects/HeaterCooler"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1607,7 +1639,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/Users/domin/CLionProjects/untitled2/cmake/ArduinoToolchain.cmake"
+			"value" : "C:/Users/domin/CLionProjects/HeaterCooler/cmake/ArduinoToolchain.cmake"
 		},
 		{
 			"name" : "CMAKE_VERBOSE_MAKEFILE",
@@ -10803,7 +10835,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/domin/CLionProjects/untitled2/cmake-build-debug"
+			"value" : "C:/Users/domin/CLionProjects/HeaterCooler/cmake-build-debug"
 		},
 		{
 			"name" : "untitled2_IS_TOP_LEVEL",
@@ -10827,7 +10859,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/domin/CLionProjects/untitled2"
+			"value" : "C:/Users/domin/CLionProjects/HeaterCooler"
 		},
 		{
 			"name" : "usbGemma.SETTINGS",
